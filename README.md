@@ -1,4 +1,7 @@
-### Hi there 👋
+### PtcD3v_
+## YT: /PtcDev_
+
+<a href="https://app.daily.dev/theptcdevguy"><img src="https://api.daily.dev/devcards/9d802f76189a4533a42168ebfcaeb495.png?r=2x7" width="400" alt="Ptc's Dev Card"/></a>
 
 <!--
 **ptcd3v/ptcd3v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
