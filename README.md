@@ -12,3 +12,5 @@
 *my mail server is currently in development, so currently, i dont have a public communication mail :(*
 
 <img alt="Static Badge" src="https://img.shields.io/badge/website_status-online-green">
+<!-- <img alt="Static Badge" src="https://img.shields.io/badge/website_status-offline-red">
+<!-- <img alt="Static Badge" src="https://img.shields.io/badge/website_status-maintenace-orange">
