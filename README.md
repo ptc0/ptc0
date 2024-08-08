@@ -1,11 +1,16 @@
-# Ptc, ptc0
+# ptc0
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ptc0&theme=dark&show_icons=true)
+<img src="https://i.imgur.com/oUlneIl.png" alt="drawing" width=50%/>
+
+**projects quick access:**
+- [ ![ui_dwi](https://github.com/ptc0/ui_dwi/) ]
 
 ### about me
 *fullstack developer (hobbyist), designer, student*
 
-<img alt="Static Badge" src="https://img.shields.io/badge/website_status-online-green">
-
-<img src="https://i.imgur.com/oUlneIl.png" alt="drawing" width=50%/><img src="https://i.imgur.com/uWbpp5m.png" alt="drawing" width=50%/>
-<a href="https://app.daily.dev/ptc0"><img src="https://api.daily.dev/devcards/v2/wnzimcfFKVjskQjAFD7MX.png?r=ha6&type=wide" width=100% alt="Ptc's Dev Card"/></a>
+### contact methods
+- *ptc@ptc.cloudns.nz*
+- *@ptc0 (discord)*
 <!-- <img alt="Static Badge" src="https://img.shields.io/badge/website_status-offline-red">
 <!-- <img alt="Static Badge" src="https://img.shields.io/badge/website_status-maintenace-orange">
