@@ -10,6 +10,8 @@ Fullstack Development Student
 - Dart
 - C++
 
+![Top Languages](https://ghstats.dev/api/langs?username=ptc0&hide_border=true)
+
 ### Frameworks
 - FastAPI
 - Flutter
