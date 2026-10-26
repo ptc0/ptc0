@@ -19,6 +19,7 @@ Fullstack Development Student
 - SQLAlchemy
 - Bootstrap
 - TailwindCSS
+- Vue.js
 
 ---
 
